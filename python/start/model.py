@@ -1,4 +1,6 @@
 import marshal
+import weight
+import enum
 
 class Building(object):
 	def __init__(self, name, adress):
@@ -14,6 +16,16 @@ class Floor(object):
 class Room(object):
 	def __init__(self, number):
 		self.number = number
+
+class EquipmentType(Enum):
+	IN_USE = 1
+	AMORTIZED = 2
+	
+class Equipment(object):
+	def __init__(self, id: str, status: EquipmentType, weight: Weight):
+		self._id = id
+		self._status = status
+		self._weight = weight
 
 class ApplicationModel(object):
 	def __init__(self):
