@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8A7E925C-B10C-43A5-A61C-96CF06F8B1B6}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab3HelpSystemForRefactoring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bnsit/patterns/Application.cs">
+    <Files>
+      <File FileName="bnsit/patterns/Application.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3HelpSystemForRefactoring" expanded="True">
+            <Node name="Lab3HelpSystemForRefactoring" expanded="True">
+              <Node name="bnsit" expanded="True">
+                <Node name="patterns" expanded="True">
+                  <Node name="Application.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

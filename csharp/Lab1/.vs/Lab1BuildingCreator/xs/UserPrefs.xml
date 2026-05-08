@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F36AB2FB-024B-45D1-B9C8-4387FE13F73A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="bnsit/patterns/model/ApplicationModel.cs">
+    <Files>
+      <File FileName="bnsit/patterns/model/ApplicationModel.cs" Line="4" Column="8" />
+      <File FileName="bnsit/patterns/Application.cs" Line="31" Column="1" />
+      <File FileName="bnsit/patterns/model/Building.cs" Line="1" Column="1" />
+      <File FileName="bnsit/patterns/model/Elevation.cs" Line="1" Column="1" />
+      <File FileName="bnsit/patterns/model/Room.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab1BuildingCreator" expanded="True">
+            <Node name="Lab1BuildingCreator" expanded="True">
+              <Node name="bnsit" expanded="True">
+                <Node name="patterns" expanded="True">
+                  <Node name="model" expanded="True">
+                    <Node name="ApplicationModel.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab1BuildingCreator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
